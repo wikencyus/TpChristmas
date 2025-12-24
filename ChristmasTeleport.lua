@@ -311,7 +311,7 @@ btnGoa.MouseButton1Click:Connect(function()
 end)
 
 btnChristmas.MouseButton1Click:Connect(function()
-    safeTeleport(CFrame.new(672, 5, 1607))
+    safeTeleport(CFrame.new(1174, 24, 1612))
 end)
 
 btnTobelli.MouseButton1Click:Connect(function()
