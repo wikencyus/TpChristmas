@@ -307,7 +307,7 @@ end)
 
 -- Teleport Functions
 btnGoa.MouseButton1Click:Connect(function()
-    safeTeleport(CFrame.new(537, -581, 8896))
+    safeTeleport(CFrame.new(553, -581, 8840))
 end)
 
 btnChristmas.MouseButton1Click:Connect(function()
